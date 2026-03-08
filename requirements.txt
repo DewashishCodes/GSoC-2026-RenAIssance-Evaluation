@@ -1,0 +1,11 @@
+transformers
+datasets
+evaluate
+jiwer
+pdf2image
+Pillow
+opencv-python-headless
+accelerate
+bitsandbytes
+pytesseract
+torch
